@@ -1,4 +1,5 @@
 # python-virus
 
 Don't Run This!!!
-simple harmless virus which inserts itself onto other python files. 
+Generates list from a depth first search on all .py files on disc and infecting them.
+
